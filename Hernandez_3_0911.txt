@@ -1,0 +1,6 @@
+Septermber 11, 2015
+ What is pseudocode - What is it good for?
+~ Pseudocode is a fake code good for planning out your scheme for world domiation.. Or you know what you want your code to do.
+
+Why will we use it?
+~We will use it to fake ou the enemy spies so we would be able to intrude their secret base and conquer!
