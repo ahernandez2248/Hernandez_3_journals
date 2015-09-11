@@ -1,0 +1,34 @@
+Begin: 
+        start line   
+	draw line up 20px
+	go right 15px
+	go down 20px
+	go up 10px
+	go left 15px
+
+	start new line
+	go up 20px
+	go diagonally down-right 20px
+	go up 20px
+	
+	start new line
+	go diagonally up-left 5px
+	go diagonally down-left 5px
+	go down 16px
+	go diagonally down-right 5px
+	go diagonally up-right 5px
+	go up 8px
+	go left 5px
+	
+	start new line
+	go up 20px
+
+	start new line
+	go left 20px
+	go up 40px
+	go right 20px
+	go left 20px
+	go down 20px
+	go left 20px
+
+End:
