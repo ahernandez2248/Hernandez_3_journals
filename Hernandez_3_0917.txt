@@ -1,0 +1,7 @@
+What are five different Java data types? What are they used for?
+~int: for whole numbers (integers!)
+~float: float point decimals
+~short,long,double: Numbers with decimals
+~char: just one character
+~String: A lot of characters
+~Boolean: True or false
