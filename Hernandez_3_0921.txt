@@ -1,0 +1,8 @@
+Have you received credit for all journals? 
+~Yepp. 95 all day, everyday.
+
+Why is it important that you use the naming convention specified when naming files?
+~ To know who is sending it and in which period since some people share the same names.
+
+What is the command to copy in Linux? To copy all of a directory to the current directory?
+~cp and cp -r /home/hope/files/* /home/hope/backup
