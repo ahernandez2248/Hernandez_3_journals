@@ -1,0 +1,20 @@
+Paid licencse~ license that means you've paid in advance
+
+Shareware~ software that is free and often distributed amongst peoples
+
+Trialware~ software that is on a free trial and may not come with all of its features
+
+Ad-ware~ software that automatically displays ads when you log on (Satan's way of trolling)
+
+Crippleware~ software with reduced functionality possible due to a fee or something
+
+Freemium~ a software that promises free of charge but you have to pay for certain features
+
+FreeWare (vs Free-OpenSource)~ freeware is just software that is free, while free open source software gives you the base code so you can revise it
+
+Richard Stallman~ he is the founder of the GNU project and the Free Software Foundation
+
+Lawrence Lessig~ a believer for reduced legal restrictions on copyright and trademark
+
+Eben Moglen~ founder of the Free Software Law Center
+
