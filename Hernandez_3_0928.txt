@@ -1,0 +1,8 @@
+How can you count in Java?
+~By looping you for loops all over the place.
+
+How can you check to see if a number is divisible?
+~By dividing it. If it works, it works.
+
+How can you track if a number has a divisor?
+~Include the remainder?

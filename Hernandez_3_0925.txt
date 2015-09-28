@@ -12,7 +12,7 @@ Freemium~ a software that promises free of charge but you have to pay for certai
 
 FreeWare (vs Free-OpenSource)~ freeware is just software that is free, while free open source software gives you the base code so you can revise it
 
-Richard Stallman~ he is the founder of the GNU project and the Free Software Foundation
+Richard Stallman~ he is the founder of the GNU project and the Free Software Foundation, and saint of the Church of GNU 
 
 Lawrence Lessig~ a believer for reduced legal restrictions on copyright and trademark
 
