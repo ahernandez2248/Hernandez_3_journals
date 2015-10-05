@@ -1,0 +1,2 @@
+What are CODE COMMENTS? What are they good for?
+~Code comments are notes added to your code and are used to know what a certain line of code does.
