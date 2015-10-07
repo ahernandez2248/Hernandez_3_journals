@@ -1,0 +1,4 @@
+What are methods? ~Steps used to get a desired result.
+What are classes? ~Rooms where learning happens.
+What is an instance? ~Immediantly
+What are class methods?~ Steps you use to pass 
