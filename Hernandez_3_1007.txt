@@ -2,3 +2,7 @@ What are methods? ~Steps used to get a desired result.
 What are classes? ~Rooms where learning happens.
 What is an instance? ~Immediantly
 What are class methods?~ Steps you use to pass 
+
+What is Java class? ~ A classification for Java.
+What might a Java class be for Jaca aFX? ~ The definition for the land of the free.
+What might be a method for classes? ~ Tip toe-ing your way to someone's window and watch them do homework for 5 hours. 
