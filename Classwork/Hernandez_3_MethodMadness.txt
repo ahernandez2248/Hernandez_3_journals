@@ -1,0 +1,2 @@
+I have created a mutlitude of circular circles for my project. I plan to create a circle pattern using my purple circles. I have used the methods for filled circles and empty circles.
+I need to add more circles and other methods to make the pattern look not as lame.
