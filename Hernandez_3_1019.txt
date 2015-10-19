@@ -13,5 +13,6 @@ Have you examined the sample code on github? Why or why not?
 ~Yes, because help was needed. Like a thnead.
 
 Write a sample method for making a sequence of red squares on the canvas.
-~gc.fillRoundRect(110, 60, 30, 30, 10, 10);
+~  gc.setFill(Color.RED);
+gc.fillRoundRect(110, 60, 30, 30, 10, 10);
 
