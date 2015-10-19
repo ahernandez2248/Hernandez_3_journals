@@ -1,0 +1,17 @@
+Are you? Why or why not?
+~Yes, I'm creating a bubble pattern and that's exactly what it turned out to be.
+
+This is a real question -- describe what you did the days we went over art methods. What did you write? type? What were your thoughts?
+~I was trying to make sense of what was going on and what I should so I don't fail.
+
+
+Did you notice that art method code was shared in the journals (as proclaimed with very large text)? Why or why not?
+~Yes, it's kind of hard not to notice. 
+
+
+Have you examined the sample code on github? Why or why not?
+~Yes, because help was needed. Like a thnead.
+
+Write a sample method for making a sequence of red squares on the canvas.
+~gc.fillRoundRect(110, 60, 30, 30, 10, 10);
+
