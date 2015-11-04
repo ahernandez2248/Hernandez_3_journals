@@ -1,0 +1,12 @@
+Imagine you are explaining to a younger sibling or parent, Describe:
+What is a method?
+~It's a magical way to make life easier when you're making things via words.
+
+Which methods did you use and how did you use them in your guessing game program?
+~I used the methoding string soo with extra cheese and mixed it together to create the perfect mac and cheese.
+
+What is a while loop?
+~ A hola hoop with the word while written on it.
+
+How did you use a while loop, boolean, and counter in your guessing game? 
+~BY FUSING ALL OF THEM TOGETHER INTO THE MOST BREATHTAKING PASTA YOU'VE EVER SMELLED. THEN I, THE GREAT PAPYRUS, HAVE COMBINED THE PASTA WITH THE RICHEST TOMATO SAUCE TO MAKE THE PERFECT PLATE OF SPAGHETTI!
