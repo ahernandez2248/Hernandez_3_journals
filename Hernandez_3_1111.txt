@@ -1,0 +1,9 @@
+In your game, what challenges must your player solve?
+~The problem of learning how to cloud and jump rope with only toe nails.
+
+How will you specifically track whether they have been solved?
+~By asking the computer lords what cheese is made of.
+
+Provide variable names and types. Classes if applicable. 
+~No. Maybe. I'll have to ask the Dark One if I can.
+
