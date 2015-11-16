@@ -1,0 +1,5 @@
+No, really, How will you use methods in your game? Why? Be specific.
+~By using them to KEEP THINGS IN ORDER BECAUSE EVERYTHING IS AS COMPLICATED AS MY MOTHER AND IT'S TEARING MY FAMILY APAAAART. 
+
+What values will you pass to them.
+~Values such as integers. 
