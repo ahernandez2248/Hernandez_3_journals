@@ -1,0 +1,5 @@
+How successful were you with your game?
+In what way? Be specific.
+
+~Okay-ish. I had a problem with the start of the game and the user's input but the rest of the game works fine.
+
