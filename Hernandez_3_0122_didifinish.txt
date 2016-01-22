@@ -1,0 +1,2 @@
+Briefly describe what you did or did not do that allowed or prevented the timely completion of your game. [Consider the posted timeline, whether you met that timeline, and if you were not meeting that timeline when and whether you worked on the project outside of class.
+I did get the map working, created a spritesheet to use, created items, and set a goal of the game. I didn't follow the timeline due to some complications but I did get the game finished.
