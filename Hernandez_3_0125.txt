@@ -1,0 +1,12 @@
+Briefly describe what you could have done to successfully complete your game?
+~I could've added fireworks. A working enemy would've been nice too.
+
+Describe your problem solving / trouble shooting process.
+~Step one: Twitch at problem
+Step two: Cry inside
+Step three: Ask someone who knows what they're doing for a little guidance
+Step Four: Forget what they've said
+Step five: Remember it in fragments
+Step six: Use those fragments to piece together a solution
+Step seven: Marvel at your fixed problem
+Step Eight: If all else fails, try to break it entirely by changing numbers around. For some reason this works miracles.
