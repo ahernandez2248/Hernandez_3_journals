@@ -1,0 +1,8 @@
+What is a class constructor?
+~A conductor of the class train.
+
+What should be included in a class constructor for orbs? Why?
+~A red hammer. You can't construct it without the right tools (and metaphors)
+
+What methods should the orb have? why?
+~Render so the orb can take over the world.
