@@ -1,0 +1,2 @@
+Describe what you will have to do to clean up your code to make the program more your own (and legible).
+~Get a broom and repeatedly whack the keyboard until certain aspects of the game are changed.I'll possibly have to use the mop and shoe polish to make it shiny. 
