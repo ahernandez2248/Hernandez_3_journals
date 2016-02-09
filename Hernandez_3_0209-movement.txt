@@ -1,0 +1,2 @@
+How can / will you make the orb move in the direction you are facing?
+~By animating the ball, possibly to life similar to how the player moves with the arrow keys
