@@ -1,0 +1,6 @@
+1. How do you make the orb stop whenever the player stops?
+2. What can I do to make the game less like a maze game and more like a combat game?
+3. How do you make the enemies fight?
+4. What is the purpose of the orb flying off on its own like somekind of cannon ball?
+5. Wouldn't the issue stated in the question above make the combat system more diffcult?
+
