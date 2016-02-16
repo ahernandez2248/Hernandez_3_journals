@@ -1,0 +1,5 @@
+How was an array used in your Slick game?
+~An array was used to make different objects with similary properties.
+
+What might be another use for an array in a different program?
+~To create different classes
