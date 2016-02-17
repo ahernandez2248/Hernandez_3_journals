@@ -1,0 +1,31 @@
+What are arrays used for?
+~Arrays are used for spawning objects out of thin air for future use.
+
+What is the code for an int array?
+~int[] anArray = new Int;
+
+What is the code for an String array?
+~ String[] things = new String[2];
+
+What is the code for an boolean array?
+~public static Boolean freq[] = new Boolean[Global.iParameter[2]];
+
+What is the code for an double array?
+~int[][]  A  =  {  {  1,  0, 12, -1 },
+                  {  7, -3,  2,  5 },
+                  { -5, -2,  2, -9 }
+               };
+
+How would you change the first value of the int array to 42? Of the String array to "Bob"?
+~anArray = 42;
+~anArray= "Bob";
+
+What does this do: private String[] dessert = new String[3];
+~Sets desserts to 3
+
+What does this do: private String[] postres = {"rice pudding", "pan dulce", "bunuelos"}
+~Sets
+
+How are they different?
+
+How would we replace "bunuelos" with "apple pie"?
