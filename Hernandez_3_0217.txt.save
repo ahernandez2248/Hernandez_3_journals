@@ -27,7 +27,7 @@ What does this do: private String[] postres = {"rice pudding", "pan dulce", "bun
 ~Sets postres to rice pudding, pan dulce, and bunuelos.
 
 How are they different?
-~One is an integer arrray.
+~One is an integer array.
 
 How would we replace "bunuelos" with "apple pie"?
-~ private String[] bunelos = {"apple pie"}
+~ublic ArrayList<Item> stuff = new ArrayList();
