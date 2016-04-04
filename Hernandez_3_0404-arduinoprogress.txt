@@ -1,0 +1,17 @@
+Describe the progress you have made on your project.
+~We almost completed the project we've decided to do.
+
+What have you done?
+~We were able to make the temperture of the roon show on the led.
+
+What do you need to do?
+~Get some souuuuunds
+
+What will you be able to turn in on Friday?
+~Hopefully something that shows temperture while playing a sound
+
+What code changes are you writing?
+~We've changed the code for displaying things on the led
+
+What functions have you created?
+~The function of getting the temperture of the room
