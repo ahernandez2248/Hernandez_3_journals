@@ -1,0 +1,7 @@
+Please describe 3 very specific things you have learned about CS or CS specific problems you have solved working with Arduino.
+You should provide AT LEAST 9 sentences worth of detail.
+~I've learned that lsd strips are very finnicky and need to be taken extra care of. I've also learned that the leds within the led strip can only take a maxiumum voltage of 5 volts.
+The leds and the wiring are very delicate, therefore going over the maximum voltage will cause permanate damage to the strip and rendering it unable to use. Although the lights are able to
+produce a bright light, they can only take so much electricity. The last thing I've learned while doing this project is that the slightest mistake, whether in the code or wiring, could lead 
+to disaterous results. The smallest mishap could lead to a device not functioning anymore. It could lead to the overheating of parts. It could also undo previous progress made. Everything
+must be thouroughly revised and edited before declaring completion.
