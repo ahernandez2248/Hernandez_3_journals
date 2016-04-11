@@ -1,0 +1,17 @@
+What is assembly?
+~Assembly is a machine language.
+  
+What is it good for?
+~Used to convert things to machine language.
+
+How is assembly different than Java?
+~Assembly is a lower level.
+
+What are differences between high level and low level languages?
+~Lower languages run faster but are more difficult to use compared to higher level languages.
+ 
+Which type is Java? How do you know, i.e., what characteristics does it have of that language type?
+~Java is a high level language: easier to use but runs slower.
+
+Which type is Assembly? How do you know, i.e., what characteristics does it have of that language type?
+~Assembly is intermediate: it runs slower and more efficent than lower levels but runs faster and harder to use than higher level languages.
