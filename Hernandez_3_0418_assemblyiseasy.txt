@@ -1,0 +1,33 @@
+For what computational reason did you type elf64?
+~Its a 64 bit operating system.
+Why did you use ld?
+
+Why did you not have to use chmod to make sample executable?
+~The file is already executable
+Now - change the code to print your name. You should change the program so that it actually prints your name.
+Post the code in your journal
+
+global _start
+        section .text
+_start:
+        ; write(1, message, 13)
+        mov     rax, 1                  ; system call 1 is write
+        mov     rdi, 1                  ; file handle 1 is stdout
+        mov     rsi, message            ; address of string to output
+        mov     rdx, 15                 ; number of bytes
+        syscall                         ; invoke operating system to do the write
+
+        ; exit(0)
+        mov     eax, 60                 ; system call 60 is exit
+        xor     rdi, rdi                ; exit code 0
+        syscall                         ; invoke operating system to exit
+message:
+        db      "Angie?", 10    ;note the new line at the end
+
+
+What problem did you have to solve to get it to work?
+~Changing the words in parenthesis
+Given your actual experience with Assembly now --- Is assembly 'quick and easy'? Why or why not?
+~No. Look at all that code just to print a name! That's a lot of work.
+What does 'low level' actually mean with regards to programming languages?
+~It means more work but it processes faster
