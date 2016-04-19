@@ -1,0 +1,4 @@
+Describe - what similarities do you notice between assembly and Human Resource Machine?
+~They're both really complicated to pile together and so much code is needed just to do a simple function.
+Describe - what differences do you notice between assembly and Human Resource Machine?
+~Human resource machine allows you to piece together code while in assembly its a blank slate: you have to figure everything out with no guidance
