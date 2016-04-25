@@ -1,0 +1,15 @@
+What are 10 concepts you believe will be covered on the test. Why?
+~High level and low level languages, since the difference is important.
+~Assembly, since a day was dedicated on how it is not easy.
+~Arduino syntax, since we spent 20 years working with an arduino.
+~Philosophy on emancipation, because if I learned everything throughout this year it was that emancipation is so important that if I forget it I shall die in a pit of plama and suffocate 
+in the void. HA. Get it? Void? I'll stop now.
+~What we learned when making that godforsaken game. We spent 50 years on that thing why wouldn't it be. I still have nightmares.
+~Methods. That's the first thing we learned in this class. I remember it like it was a semester ago. 
+~Getters and setters. That last test we took had them, why not the next one, especially since that last one took the spirits of most of the students. This could be getter vs setter
+deathmatch round 2: the final brawl. Whoever fails gets hung.
+~Arrays and ArrayList. We didn't spend a day on those bad boys for nothing. I see those scars they left. I'm sure they'll be on the test bigger and badder than before, ready to rip
+my arms off and sell my frontal lobe to the sailors.
+~Classes. We're in a class. In this class we learned about class which is what this class is supposed to class us about? Very classy. (I lied about stopping.)
+~Objects. You can't have a class without an object in a class or else there'd be no class. Not classy. No, really we spent too many days on this stuff I'd be surprised if it wasn't on 
+the test. I mean all that time spent in class wasn't for naught right? Right? RIGHT? Left.
