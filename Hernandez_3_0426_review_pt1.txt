@@ -1,0 +1,29 @@
+Write a Java method to return the cubed value of some number.
+public int () {
+return number * number * number;
+}
+
+
+Write an Arduino function to return the cubed value of some number.
+int {
+return number *number * number
+}
+
+
+Create the class, an object, and class constructor for class student
+public Student{
+boolean isFatigued;
+boolean isSuffering;
+boolean isDeadinside;
+	
+	Student( boolean a, boolean b, boolean c){
+this.isFatigued = a;
+this.isSuffering = b;
+this.isDeadinside = c;
+
+}
+}
+
+
+Describe - if we were to continue with Arduino - what would you create?
+~I would create a light turret to shoot light beams at people to start a rave
