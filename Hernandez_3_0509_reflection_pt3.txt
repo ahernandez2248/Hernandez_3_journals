@@ -1,0 +1,64 @@
+Given mymap[67][43] Which is the x coordinate? Which is the y coordinate? Why? How does this happen?
+~ The x coordinate is 67 and the y coordinate is 43, which happens because those were the coordinate of a graph.
+    Consider:
+
+            for (int i = 0; i <= map[0].length - 1; i++) {
+                for (int j = 0; j <= map[1].length - 1; j++) {
+                    if (j < map[1].length - 1) {
+                      if (i=0){ System.out.print("8888"); #a
+                        } else if (map[i][j] != 'x') {
+                            System.out.print("."); #e
+                        } else {
+                            System.out.print(map[i][j]); #b
+                        }
+                    } else {
+                        if (map[i][j] != 'x') {
+                            System.out.println("."); #c
+                        } else {
+                            System.out.println(map[i][j]); #d
+                        }
+                    }
+                }
+            }
+        }
+            
+            
+          
+
+Write the code from line #a and explain what it does.
+~ if (i=0){ System.out.print("8888");
+It prints 8888 if the number output equals 0
+
+Write the code from line #b and explain what it does.
+~System.out.print(map[i][j]);
+It prints coordinates from the array.
+ 
+Write the code from line #c and explain what it does. Explain how its different than #e
+~System.out.println(".");
+It prints a period instead of an array
+ 
+Write the code from line #d and explain what it does.
+~ System.out.println(map[i][j]);
+It prints an arrraaaaay
+ 
+Explain how to use a boolean with a while loop. Provide a very specific use case and code example.
+~Use the boolean within the while loop to create the looop. For example, creating the playable boolean and setting whle(playable) to create instance for when the game is in session.
+
+Explain the use of static.
+~You use static to state whether the method is relative or not 
+
+Provide an example of how you could use an object with your game. Give a code example.
+~You can use an object to give aspects of gameplay to the player. For example you can create an object that gives health
+
+
+
+
+
+
+
+
+
+
+
+
+
