@@ -1,0 +1,19 @@
+The Slick assignment was intended to gently familiarize you with 2-D arrays. Some students recognized the 2-D arrays from Slick and previous journals --- other students had no recollection. 
+Which were you? Why? Note - attributing the environment is not pragmatic - as students experienced the same environment (though they might have experienced it differently)
+Make a list of ten questions related to the Array assignments pt 1 and 2 - that you predict will be on the semester exam. 
+E.g., object initialization, class constructors, creating and changing arrays, etc.
+
+~I was one of those people who had no idea what they were doing and I blame stress for it. You know, stress, the all controlling force that make the world go round and makes people like
+me shut down and wish they could crawl in a hole and stay there until the end of time.This just haaaad to be assigned during AP testing, didn't it. Aren't I lucky? (Friday the 13? Eh?
+Ehhhhh?)
+
+1.Create a 2D int array
+2.Create a class with class constructors
+3.How does "static" affect anything?
+4.Create some getters and setters
+5.How does arduino code differ from java? 
+6.What similarities do arduino and java have?
+7.Create a loop that prints out 9 every nth number
+8.Difference between array and arraylist
+9.What good is an arraylist
+10.Difference between a class and an object
