@@ -1,0 +1,16 @@
+Explain casting. Up-casting, Down-casting.
+~Casting is labeling an object differently. Up casting is basically giving an object a name that refers to its bigger picture (labeling cat as an animal) while downcasting is labeling
+an object its smaller picture.
+Give a specific code example for up-casting
+~    Cat c = new Cat();
+    System.out.println(c);
+    Mammal m = c; // upcasting
+    System.out.println(m);
+Give a specific code example for down-casting
+~Cat c2 = (Cat) a; 
+Give a specific code example for converting a char to a String
+~char ch = 'J';
+String string1 = Character.toString(ch);
+String string2 = String.valueOf(ch);
+What is the range of values for byte? Why?
+~128 to 127
