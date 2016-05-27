@@ -1,0 +1,19 @@
+     1                                  global _start
+     2                                  	section .text
+     3                                  _start:
+     4                                  	; write(1, message, 13)
+     5 00000000 B801000000              	mov	rax, 1			; system call 1 is write
+     6 00000005 BF01000000              	mov	rdi, 1			; file handle 1 is stdout
+     7 0000000A 48BE-                   	mov	rsi, message		; address of string to output
+     8 0000000C [2500000000000000] 
+     9 00000014 BA0F000000              	mov	rdx, 15			; number of bytes
+    10 00000019 0F05                    	syscall				; invoke operating system to do the write
+    11                                  
+    12                                  	; exit(0)
+    13 0000001B B83C000000              	mov 	eax, 60			; system call 60 is exit
+    14 00000020 4831FF                  	xor	rdi, rdi		; exit code 0
+    15 00000023 0F05                    	syscall				; invoke operating system to exit
+    16                                  message:
+    17 00000025 416E6769653F0A          	db	"Angie?", 10	;note the new line at the end
+    18                                  
+    19                                  

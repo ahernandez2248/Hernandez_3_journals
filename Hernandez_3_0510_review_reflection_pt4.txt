@@ -1,0 +1,32 @@
+Create a class for 'hero'
+The class should contain: variables for health, score, power/weapon, dexterity, perception, level, x, y, z, and a symbol 
+There should also be a class constructor accepting inputs for name, x, y, and symbol
+
+public Class Hero{
+
+public health hp;
+public score xp;
+public weapon swoordz;
+public dexterity dex;
+public perception perc;
+public level lvl;
+
+
+Scanner scan = new Scanner(System.in);
+System.out.println("Enter thy name, intrepid knight.")
+
+
+
+
+
+
+
+
+
+
+} 
+
+
+Provide an example of initializing a hero object with your name
+
+Explain why you would not initialize the hero in class hero
